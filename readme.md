@@ -103,7 +103,7 @@ Este repositório contém o **Mobile** do sistema, que permite que os usuários 
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/readme/user.png" width="250"/>
+      <img src="assets/readme/userProfile.png" width="250"/>
       <br><em>Tela de Usuário</em>
     </td>
   </tr>
