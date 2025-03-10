@@ -12,38 +12,32 @@ Este repositório contém o **Mobile** do sistema, que permite que os usuários 
 
 ## ✨ Características do Projeto
 
-✅✔ Cadastro e Login de Usuários – Permite que os usuários se cadastrem e acessem o sistema.
+✅ Cadastro e Login de Usuários – Permite que os usuários se cadastrem e acessem o sistema.
 <br>
-✅✔ Agendamento de Consultas – Interface para marcar, editar e cancelar consultas.
+✅ Agendamento de Consultas – Interface para marcar, editar e cancelar consultas.
 <br>
-✅✔ Visualização de Médicos – Lista de médicos disponíveis para agendamento.
+✅ Visualização de Médicos – Lista de médicos disponíveis para agendamento.
 <br>
-✅✔ Calendário Integrado – Utilização de react-native-calendars para facilitar a escolha de datas.
+✅ Calendário Integrado – Utilização de react-native-calendars para facilitar a escolha de datas.
 <br>
-✅✔ Navegação Intuitiva – Navegação entre telas com @react-navigation.
+✅ Navegação Intuitiva – Navegação entre telas com @react-navigation.
 <br>
-✅✔ Design Responsivo – Interface adaptada para diferentes tamanhos de tela.
+✅ Design Responsivo – Interface adaptada para diferentes tamanhos de tela.
 
 ## 🛠️ Tecnologias Utilizadas
 
 ### Mobile
 
 - **React Native** – Framework para desenvolvimento de aplicativos móveis multiplataforma.
-
 - **Expo** – Plataforma que facilita o desenvolvimento e a publicação de aplicativos React Native.
-
 - **Axios** – Cliente HTTP para comunicação com o backend.
-
 - **React Navigation** – Biblioteca para gerenciamento de navegação entre telas.
-
 - **React Native Calendars** – Componente para exibição e seleção de datas.
-
 - **React Native Picker** – Componente para seleção de opções em formulários.
 
 ## 🛠️ Ferramentas de Desenvolvimento
 
 - **Expo CLI** – Ferramenta para desenvolvimento e build de aplicativos Expo.
-
 - **Babel** – Transpilador para JavaScript moderno.
 
 ## Como Rodar o Projeto Localmente
@@ -76,42 +70,44 @@ Este repositório contém o **Mobile** do sistema, que permite que os usuários 
 
 ### Abaixo estão as principais telas disponíveis no aplicativo:
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-  <div style="width: 33%;">
-    <img src="assets/readme/register.png" alt="Tela de Cadastro" style="width: 100%;"/>
-    <p style="text-align: center;"><strong>Tela de Cadastro</strong></p>
-  </div>
-  <div style="width: 33%;">
-    <img src="assets/readme/login.png" alt="Tela de Login" style="width: 100%;"/>
-    <p style="text-align: center;"><strong>Tela de Login</strong></p>
-  </div>
-    <div style="width: 33%;">
-    <img src="assets/readme/screenDoctors.png" alt="Tela de Consultas" style="width: 100%;"/>
-    <p style="text-align: center;"><strong>Tela de Consultas</strong></p>
-  </div>
-</div>
+## Screenshots
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-  <div style="width: 33%;">
-    <img src="assets/readme/appointment.png" alt="Tela de Agendamento" style="width: 100%;"/>
-    <p style="text-align: center;"><strong>Tela de Agendamento</strong></p>
-  </div>
-    <div style="width: 33%;">
-    <img src="assets/readme/scheduleAppointment.png" alt="Tela de Agendamento de horário" style="width: 100%;"/>
-    <p style="text-align: center;"><strong>Tela de Agendamento de horário</strong></p>
-  </div>
-  <div style="width: 33%;">
-    <img src="assets/readme/cancelAppointment.png" alt="Tela de Agendamento concluído" style="width: 100%;"/>
-    <p style="text-align: center;"><strong>Tela de Agendamento concluído</strong></p>
-  </div>
-</div>
-
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-  <div style="width: 33%;">
-    <img src="assets/readme/user.png" alt="Tela de Usuário" style="width: 100%;"/>
-    <p style="text-align: center;"><strong>Tela de Usuário</strong></p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/readme/register.png" width="250"/>
+      <br><em>Tela de Cadastro</em>
+    </td>
+    <td align="center">
+      <img src="assets/readme/login.png" width="250"/>
+      <br><em>Tela de Login</em>
+    </td>
+    <td align="center">
+      <img src="assets/readme/screenDoctors.png" width="250"/>
+      <br><em>Tela de Consultas</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/readme/appointment.png" width="250"/>
+      <br><em>Tela de Agendamento</em>
+    </td>
+    <td align="center">
+      <img src="assets/readme/scheduleAppointment.png" width="250"/>
+      <br><em>Agendamento de Horário</em>
+    </td>
+    <td align="center">
+      <img src="assets/readme/cancelAppointment.png" width="250"/>
+      <br><em>Agendamento Concluído</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/readme/user.png" width="250"/>
+      <br><em>Tela de Usuário</em>
+    </td>
+  </tr>
+</table>
 
 ## Contribuição
 
